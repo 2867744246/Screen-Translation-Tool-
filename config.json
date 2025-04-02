@@ -1,5 +1,5 @@
 {
-  "hotkey": "ctrl+shift+a",
+  "hotkey": "alt+shift+a",
   "target_lang": "zh-cn",
   "tesseract_path": "F:/Program Files/Tesseract-OCR/tesseract.exe"
 }
